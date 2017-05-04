@@ -44,3 +44,13 @@ pango-1.36.8-2.el7.i686
 pcre-8.32-15.el7_2.1.i686
 pixman-0.34.0-1.el7.i686
 zlib-1.2.7-17.el7.i686
+gtk2-devel
+gtk2-devel.i686
+gtk+-devel
+gtk3-devel
+gtk3-devel.i686
+SDL-devel.i686
+SDL-devel
+gtkmm2-devel
+libX11-devel
+libXxf86vm-devel
